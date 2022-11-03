@@ -6,4 +6,4 @@
 - [x] Multiple Language
 - [x] Native styles
 
-# App created using Native CLI
+###### App created using Native CLI
